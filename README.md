@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @chandraproot
+- 👀 I'm a web developer 
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Data Structures and Alogorithms and Deep learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
